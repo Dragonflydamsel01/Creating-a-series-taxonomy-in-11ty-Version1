@@ -2,7 +2,7 @@
 
 ## The Bloody Point of This Sandbox
 
-If you want to link blog posts based on whether or not they are related by topic/theme (a series);
+If you want to link elventy blog posts based on whether or not they are related by topic/theme (a series);
 study this sandbox. Here are the important bits:
 
 ## The File Folders
