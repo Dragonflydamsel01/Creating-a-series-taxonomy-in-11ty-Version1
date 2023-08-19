@@ -5,7 +5,7 @@ https://shivjm.blog/colophon/how-i-create-an-article-series-in-eleventy/
 
 ## The Bloody Point of This Sandbox
 
-If you want to link elventy blog posts based on whether or not they are related by topic/theme (a series);
+If you want to link eleventy /11ty blog posts based on whether or not they are related by topic/theme (a series);
 study this sandbox. Here are the important bits:
 
 ## The File Folders
