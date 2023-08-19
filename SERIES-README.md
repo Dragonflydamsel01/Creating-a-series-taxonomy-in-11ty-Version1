@@ -37,6 +37,7 @@ In the root of your eleventy file, here are the following folders:
   In module.exports {} CTRL+F for "Article/blog series collections & filter" 
   
 And that's it, you're done for this first version of a series based on here:
+https://shivjm.blog/colophon/how-i-create-an-article-series-in-eleventy/
 
 
 
