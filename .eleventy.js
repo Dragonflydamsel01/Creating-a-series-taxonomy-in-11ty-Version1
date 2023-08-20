@@ -105,6 +105,7 @@ module.exports = function (eleventyConfig) {
       "/assets/css/prism-base16-monokai.dark.css",
   });
 
+  eleventyConfig.addPassthroughCopy({ "./assets/img": "/assets/img" });
 
 // Customize Markdown library settings:
 	eleventyConfig.amendLibrary("md", mdLib => {
