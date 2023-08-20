@@ -1,12 +1,15 @@
 ---
 title: The Golden Apple Tree and the Nine Peahens, Part I
+slug: golden-apple-part-i
 description: This is a new series about swan wives
 date: 2018-10-01
 series: "swan-wives"
 part: 1
 tags: second tag
 ---
-Our next theme concerns what I shall tongue-in-cheek refer to as "wif-swans": Woman-swans, or wife-swans. Because the Old English word for *woman* is *wif*, and this is relevant because the Old English word for *man* is *wer*, from which we derive *werewolf* and *weregild* (man-price, blood money). This particular version comes from Serbia, only they switch it up by using peahens.  
+
+Our next theme concerns what I shall tongue-in-cheek refer to as "wif-swans": Woman-swans, or wife-swans. Because the Old English word for _woman_ is _wif_, and this is relevant because the Old English word for _man_ is _wer_, from which we derive _werewolf_ and _weregild_ (man-price, blood money). This particular version comes from Serbia, only they switch it up by using peahens.
+
 <figure>
 <img src="/assets/img/wlop-blackswan.jpg" alt="woman in a fancy dress reads a book in a bright ballroom, while swans cavort about her" style="max-width:85vh;">
 <figcaption>Black Swan by WLOP /<a href="https://www.artstation.com/artwork/ZGr13N"> Art Station</a> </figcaption>
@@ -35,5 +38,3 @@ But, after he had succeeded so well several nights, his two elder brothers grew 
 Then the old woman slowly took hold of one of the girl's curls, and cut it off, and the girl immediately rose up, changed again into a peahen and flew away, and the other peahens followed her, and so they all disappeared.
 
 Then the king's son jumped up, and cried out, "What is that?" and, looking under the bed, he saw the old woman, and drew her out. Next morning he order her to be tied to a horse's tail, and so torn to pieces. But the peahens never came back, so the king's son was very sad for a long time, and wept at his loss.
-
-

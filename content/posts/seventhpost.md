@@ -1,13 +1,14 @@
 ---
 title: The Golden Apple Tree and the Nine Peahens -- The Witch.
 description: The conclusion of the Prince and the Peahen
+slug: the-witch
 date: 2018-10-04
 series: "swan-wives"
 part: 4
 tags: second tag
 ---
 
-Next day, when the dragon went out, the king's son came, and the queen told him all she had learned from the dragon. Then the king's son went away to the mountain and found the old woman, and entered her house. 
+Next day, when the dragon went out, the king's son came, and the queen told him all she had learned from the dragon. Then the king's son went away to the mountain and found the old woman, and entered her house.
 
 She greeted, "God help you too, my son! What do you wish?"
 
@@ -87,6 +88,4 @@ When the dragon's horse heard that, he shook his head angrily and flung his feet
 
 Then the queen mounted him and returned with the king's son happily to her kingdom, where they reigned together in great prosperity until the day of their death.
 
-*Source*: Csedomille Mijatovies, *Serbian Folk-Lore: Popular Tales* (London: W.Isbister and Company, 1874), pp. 43-58. Taken from here: https://sites.pitt.edu/~dash/swan.html
-
-
+_Source_: Csedomille Mijatovies, _Serbian Folk-Lore: Popular Tales_ (London: W.Isbister and Company, 1874), pp. 43-58. Taken from here: https://sites.pitt.edu/~dash/swan.html

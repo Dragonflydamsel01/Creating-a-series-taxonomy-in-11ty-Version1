@@ -1,5 +1,6 @@
 ---
 layout: layouts/post.njk
+permalink: /about/index.html
 title: About Me
 templateClass: tmpl-post
 eleventyNavigation:

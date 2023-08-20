@@ -1,5 +1,6 @@
 ---
 title: The Golden Apple Tree and the Nine Peahens -- The Dragon.
+slug: the-dragon
 description: The third part of the Prince and the Peahen
 date: 2018-10-03
 series: "swan-wives"
